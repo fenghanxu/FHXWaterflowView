@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXWaterflowView_Example' do
+  pod 'FHXWaterflowView', :path => '../'
+
+  target 'FHXWaterflowView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

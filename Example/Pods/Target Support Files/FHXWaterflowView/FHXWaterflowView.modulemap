@@ -1,0 +1,6 @@
+framework module FHXWaterflowView {
+  umbrella header "FHXWaterflowView-umbrella.h"
+
+  export *
+  module * { export * }
+}

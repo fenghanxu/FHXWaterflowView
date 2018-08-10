@@ -1,0 +1,16 @@
+PODS:
+  - FHXWaterflowView (0.1.0)
+
+DEPENDENCIES:
+  - FHXWaterflowView (from `../`)
+
+EXTERNAL SOURCES:
+  FHXWaterflowView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXWaterflowView: 2d88e3a64b96740f33ba4086e6f0606f59804d3e
+
+PODFILE CHECKSUM: 7d2821169e3591b482b8a23a099fab418dd348b8
+
+COCOAPODS: 1.4.0
